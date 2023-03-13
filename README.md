@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/fatmkzlkaya/fatmkzlkaya/78db5ceec1cc05fe2340fc6f623d30db70437566/name.svg" alt="Fatma Kızılkaya" />
+  <img src="https://raw.githubusercontent.com/fatmkzlkaya/fatmkzlkaya/aefb268266062eab1f0ad2419263cbccd9c80230/name.svg" />
 </h1>
 
 ## Hey! 
